@@ -7,4 +7,3 @@
 
 💡 Always open to learning and collaborating on exciting projects!  
 
-📫 **Let's connect:** [sohel@example.com] | [LinkedIn](#)
