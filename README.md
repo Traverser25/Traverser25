@@ -1,4 +1,4 @@
-#  Hey, I'm Muhammad Sohel!  
+#  Hey, I'm Sohel!  
  **Software Developer | Backend Developer | Problem Solver**  
 
 🔹 Passionate about building scalable backend systems with **Node.js, Flask, and Python**  
