@@ -1,5 +1,5 @@
 #  Hey, I'm Sohel!  
- **Software Developer | Backend Developer | Problem Solver**  
+ **Software Engineer | Backend Developer | Problem Solver**  
 
 🔹 Passionate about building scalable backend systems with **Node.js, Flask, and Python**  
 🔹 Skilled in **MongoDB, MySQL, Flask, Python, Node.js**  
