@@ -1,9 +1,10 @@
-#  Hey, I'm Sohel!  
- **Software Engineer | Backend Developer | Problem Solver**  
+# Hey, I'm Sohel!  
+Software Engineer | Backend Developer | Problem Solver
 
-🔹 Passionate about building scalable backend systems with **Node.js, Flask, and Python**  
-🔹 Skilled in **MongoDB, MySQL, Flask, Python, Node.js**  
-🔹 Have a little bit of a knack for **C++, IoT, and Arduino,webScraping**  
+🔹 Passionate about building scalable backend systems using Node.js, Flask, and Python  
+🔹 Proficient in MongoDB, MySQL, Flask, Python, and Node.js  
+🔹 Also enjoy working with C++, IoT, Arduino, and web scraping projects
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
