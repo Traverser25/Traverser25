@@ -44,3 +44,6 @@ Software Engineer | Backend Developer | Problem Solver
 💡 Always open to learning and collaborating on exciting projects!  
 
 📌 **let's connect:** thesohel25202@gmail.com
+
+
+![Traverser25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Traverser25&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
