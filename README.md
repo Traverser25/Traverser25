@@ -12,6 +12,7 @@ Software Engineer | Backend Developer | Problem Solver
 
 📌 **let's connect:** thesohel25202@gmail.com
 
-![Traverser25's Stats](https://github-readme-stats.vercel.app/api?username=Traverser25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![traverser25's Stats](https://github-readme-stats.vercel.app/api?username=traverser25&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Traverser25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Traverser25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![traverser25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=traverser25&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
