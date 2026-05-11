@@ -61,8 +61,10 @@ Software engineer focused on building scalable backend systems and automation pi
 
 I'm always open to collaborating on automation, backend systems, or anything weird and AI-powered.
 
-Building things that automate the boring stuff — one commit at a time
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sohel-458604222)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Traverser_25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thesohel25202@gmail.com)
 
+<sub>Building things that automate the boring stuff — one commit at a time.</sub>
 
 </div>
