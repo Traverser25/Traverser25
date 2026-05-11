@@ -61,9 +61,6 @@ Software engineer focused on building scalable backend systems and automation pi
 
 I'm always open to collaborating on automation, backend systems, or anything weird and AI-powered.
 
-📬 **Email:** thesohel25202@gmail.com  
-💼 **LinkedIn:** [mohd-sohel-458604222](https://www.linkedin.com/in/mohd-sohel-458604222)  
-🎥 **YouTube:** [@Traverser_25](https://www.youtube.com/@Traverser_25)
 
 ---
 
