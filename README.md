@@ -61,9 +61,8 @@ Software engineer focused on building scalable backend systems and automation pi
 
 I'm always open to collaborating on automation, backend systems, or anything weird and AI-powered.
 
-
+Building things that automate the boring stuff — one commit at a time
 ---
 
-<div align="center">
-<sub>Building things that automate the boring stuff — one commit at a time.</sub>
+
 </div>
